@@ -1,7 +1,7 @@
 # COVID-19-MOROCCO-API
 #########################################################################################################
 SIMPLE HTML &amp; JSON API
-DEMO https://www.cvid.ma
+DEMO https://www.cvid.ga
 Eidt By El Mehdi Habieb
 FB : ANONOIP
 email : elmehdihabieb@gmail.com
